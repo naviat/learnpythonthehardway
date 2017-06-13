@@ -10,7 +10,11 @@ print("It is true that 3 + 2 < 5 - 7 ?")
 print(3 +  2 < 5 - 7)
 
 print("What is 3 + 2 ?", 3 + 2)
+<<<<<<< HEAD
 print("What is 5 - 7 ?", 5 - 7)
+=======
+print("What is 5- 7 ?", 5 - 7)
+>>>>>>> 3bb8ed9a5b1b01f9a81ae02e39a76d703766a38a
 
 print("Oh that is why it's FALSE")
 
